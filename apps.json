@@ -1,0 +1,8 @@
+[
+    {
+        "name": "GoLang",
+        "window_install": "winget install GoLang.Go",
+        "linux_install": "none",
+        "prerequisites": []
+    }
+]
